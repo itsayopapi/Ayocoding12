@@ -21,6 +21,6 @@
   <br/>
   <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ayocoding12&show_icons=true&count_private=true&theme=dark" width="355"></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timex19&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayocoding12&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
    </p>  
 </details>
