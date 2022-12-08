@@ -1,4 +1,8 @@
-<h1 align='center'> Hi there 👋, I am Ayomide Hassan </h1>
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Ayo;I+Am+Passionate+About+Coding;How+Can+I+Help)](https://git.io/typing-svg)
+# Hi I'm Ayo. 👋
+
+
+<h1 align='center'> Hi there 👋, I am Ayo </h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 <p>
   I am a software engineer/developer student from South Africa 🇿🇦
