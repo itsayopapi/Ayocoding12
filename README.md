@@ -1,6 +1,6 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Ayo;I+Am+Passionate+About+Coding;How+Can+I+Help)](https://git.io/typing-svg)
-# Hi I'm Ayo. 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayo&label=Profile%20views&color=0e75b6&style=flat" alt="Ayo" /> </p>
 
 <h1 align='center'> Hi there 👋, I am Ayo </h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
