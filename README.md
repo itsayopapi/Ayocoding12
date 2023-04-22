@@ -13,7 +13,7 @@
   I'm currently learning C, HTML, CSS, JavaScript, C++, Phyton.
 </p>
 <p>
-  I'm just your ordinary 18y/o teenager who loves anything tech😄
+  I'm just your ordinary 18y/o teenager who loves anything tech😅❤
 </p>
 
 
@@ -30,6 +30,12 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayocoding12&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
    </p>  
 </details>
+
+# For collaboration:
+
+You can reach me at [ayocoding12@gmail.com](mailto:ayocoding12@gmail.com)
+
+
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/28xj74)
 
